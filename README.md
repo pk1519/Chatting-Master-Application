@@ -21,3 +21,7 @@ Prerequisites
 Java Development Kit (JDK) 8 or higher
 IDE (e.g., IntelliJ IDEA, Eclipse)
 Database setup (if applicable)
+
+
+--> FOR ANY QUERY
+MAIL ID--priyanshu00909@gmail.com
